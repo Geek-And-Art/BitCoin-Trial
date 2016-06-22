@@ -1,7 +1,7 @@
 # BitCoin-Trial
 This project is trying to implement some Bitcoin trading strategies to explore the new possibilities.
 
-### Strategies List
+### Trading Strategies List
 Currently, there're 5 plans in the to-do list:
 
 1. **Momentum Trading**: trivial and easy.
