@@ -13,3 +13,4 @@ print "time", "price", "amount"
 
 for row in cr:
     print (datetime.datetime.fromtimestamp(int(row[0])).strftime('%Y-%m-%d %H:%M:%S')), row[1], row[2]
+
