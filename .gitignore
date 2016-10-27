@@ -45,3 +45,5 @@ bin
 
 # Class files in Eclipse
 *.class
+
+.ipynb_checkpoints/
